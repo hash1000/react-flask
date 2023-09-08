@@ -1,0 +1,9 @@
+{
+    "name": "react=-flask",
+    "script": "app.py", 
+    "interpreter": "python3",
+    "env": {
+      "FLASK_ENV": "production"  
+    }
+  }
+  
